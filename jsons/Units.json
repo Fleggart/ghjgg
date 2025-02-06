@@ -2,7 +2,7 @@
   {
 		"name": "Cossacgks",
 		"unitType": "Gunpowder",
-		"replaces": "Musketman",,
+		"replaces": "Musketman",
 		"movement": 2,
 		"strength": 35,
 		"cost": 200,
