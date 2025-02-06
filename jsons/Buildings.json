@@ -7,12 +7,4 @@
 		"replacementTextForUniques": "[[[+15]% [Science] [in all cities]] [during a Golden Age]]\n[[[+15]% [Culture] [in all cities]] [during a Golden Age]]"
 		"uniques": ["Can only be built<in [in capital] cities>", "[+15]% [Science] [in all cities] <during a Golden Age>", "[+15]% [Culture] [in all cities] <during a Golden Age>"]
 	},
-	{
-	    "name": "Altar of Prayer",
-		"cost": 105,
-		"isNationalWonder": true,
-		"replaces": "National Epic",
-		"uniqueTo": "LianFang Court",
-		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>", "[+25]% Great Person generation [in all cities]", "[+3 Science] from every specialist [in all cities]", "[+50]% Food consumption by specialists [in all cities]", "[+50]% Unhappiness from [Specialists] [in all cities]", "Cost increases by [30] per owned city"],
-	},
 ]
