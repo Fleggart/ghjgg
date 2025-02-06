@@ -1,0 +1,15 @@
+[
+  {
+		"name": "Cossacgks",
+		"unitType": "Gunpowder",
+		"replaces": "Musketman",,
+		"movement": 2,
+		"strength": 35,
+		"cost": 200,
+		"requiredTech": "Gunpowder",
+		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Rifling",
+		"uniques": ["[+25]% Strength <when fighting in [Open terrain] tiles>"],
+		"attackSound": "shot"
+  }
+]

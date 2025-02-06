@@ -1,0 +1,192 @@
+[
+	{
+		"name": "LianFang Court",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Suming"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ""
+
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"outerColor": [255,255,255],
+		"innerColor": [79,153,165],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Thriving and Prosperous",
+		"uniqueText": "This is a reward for the first player to win Scientific Vectory with real speed and legend difficulty\n\n+1 [Food] for every Improvement with 3 to 6 neighboring Improvement tiles\n+1 [Production] for every Improvement with 6 neighboring Improvement tiles\n[\"Borrows\" city names from other civilizations in the game]"
+		"uniques": [
+		"\"Borrows\" city names from other civilizations in the game", "[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"	
+		]
+		"cities": ["Zhao Ge"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]      
+	}
+	{
+	    "name": "Glenn Empire",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Glenness"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ""
+
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"innerColor": [216, 57, 57],
+		"outerColor": [51,243,243],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Unstoppable Expansion",
+		"uniqueText": "This is the runner-up reward of the second Leader Mission Competition.\n\nUnits ignore terrain costs when moving into any tile with Hills\n[All newly-trained [Reconnaissance] units [in all cities] receive the [Survivalism I] promotion]\nBorrows city names from other civilizations in the game"
+		"uniques": ["All newly-trained [Reconnaissance] units [in all cities] receive the [Survivalism I] promotion", "Units ignore terrain costs when moving into any tile with Hills", "\"Borrows\" city names from other civilizations in the game", "[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"	
+		]
+		"cities": ["Cerranxi", "Mukuso", "Handanar", "Iverson", "Epson", "Collins", "Bena", "Gandahel", "Blue Bridge Fortress", "Highlander"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]
+    }
+    {,
+        "name": "Sumusuming",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Suming"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ""
+
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"outerColor": [70, 152, 153],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Traceability",
+		"uniqueText": "This is the second runner-up reward of the third Leader Mission Competition.\n\nCan relocate the capital and change Civilized Leader\n[[+1 Production] from [Strategic resource] tiles [in capital]]\n[[+1 Faith] from [Luxury resource] tiles [in capital]]\n[\"Borrows\" city names from other civilizations in the game]"
+		"uniques": [
+		"[+1 Production] from [Strategic resource] tiles [in capital]",
+		"[+1 Faith] from [Luxury resource] tiles [in capital]",
+		"\"Borrows\" city names from other civilizations in the game", "[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"	
+		]
+		"cities": ["Sea Sand"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]
+     }
+     {
+        "name": "Iron Blood Kingdom",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Ironman"],
+		"preferredVictoryType":"Domination",
+		"startIntroPart1": ""
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"outerColor": [255, 255, 255],
+		"innerColor": [190,44,55],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Go to the End of the World",
+		"uniqueText": "This is the runner-up reward of the third Leader Mission Competition.\n\n[[+1 Gold] from [Road] tiles [in all cities]]\n[[-100]% maintenance on road & railroads]\n-50% construction time for [Road] and [Railroad] improvements\n[\"Borrows\" city names from other civilizations in the game]"
+		"uniques": [
+		"[+1 Gold] from [Road] tiles [in all cities]",
+		"[-100]% maintenance on road & railroads",
+		"[-50]% construction time for [Road] improvements"
+		"[-50]% construction time for [Railroad] improvements"
+		"\"Borrows\" city names from other civilizations in the game", "[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"	
+		]
+		"cities": ["Rhine"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]
+     }
+     {
+        "name": "Yun Ji Court",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Yunjiness"],
+		"startBias": ["Hill"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ""
+
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"innerColor": [222, 68, 68],
+		"outerColor": [10,10,10],
+		"favoredReligion": "Taoism",
+		"uniqueName": "War of Hope",
+		"uniqueText": "This is the championship reward of the second Leader Mission Competition.\n\n+1 [Science] in all cities when at war\nEarn 100% of killed☠ Military unit's †Strength as ⍾Science\nFor every 10% loss of HP, the Strength increases by 5%, up to a maximum of 20%\nBorrows city names from other civilizations in the game"
+		"uniques": ["[+1 Science] [in all cities] <when at war>", "Earn [100]% of killed [Military] unit's [Strength] as [Science]", "\"Borrows\" city names from other civilizations in the game",
+		"[+5]% Strength <when below [90] HP>",
+		"[+5]% Strength <when below [80] HP>",
+		"[+5]% Strength <when below [70] HP>",
+		"[+5]% Strength <when below [60] HP>",
+		"[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"]
+		"cities": ["Titans"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]
+     }
+     {
+        "name": "Khitay Empire",
+		"leaderName": "Leader",
+		"personality": "base",
+		"adjective": ["Zhendaness"],
+		"preferredVictoryType":"Domination",
+
+		"startIntroPart1": ""
+
+		"declaringWar": "Your behavior has angered me. I declare a just war against you",
+		"attacked": "How dare you attack me! My sword will be the only thing waiting for you, and you will return with nothing",
+		"defeated": "Although I failed, I will come back one day. I hope you can treat my people well",
+		
+	    "introduction": "I welcome you very much, dear stranger, do you need to sit down and talk?",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What?",
+
+		"tradeRequest": "I will provide enough goods to impress you, and I hope the goods you provide will also impress me",
+		"innerColor": [255, 255, 255],
+		"outerColor": [0,0,0],
+		"favoredReligion": "Confucianism",
+		"uniqueName": "Yin-Yang Harmony",
+		"uniqueText": "This is the championship reward of the third Leader Mission Competition.\n\n-1% growth in all cities for every 5 Warfare Aversion Level\n+1% Strength and Production for every 5 Warfare Aversion Level\n+1 Culture and +1 Faith in capital when not at war\n+1 Science and +1 Gold in all cities when at war\n[\"Borrows\" city names from other civilizations in the game]"
+		"uniques": [
+		"[-1]% growth [in all cities] <for every [5] [Warfare Aversion Level]>",
+		"[+1]% Strength <for [Military] units> <for every [5] [Warfare Aversion Level]>",
+		"[+1]% [Production] <for every [5] [Warfare Aversion Level]>",
+		"[+1 Culture, +1 Faith] [in capital] <when not at war>",
+		"[+1 Science, +1 Gold] [in all cities] <when at war>",
+		"\"Borrows\" city names from other civilizations in the game", "[-5]% Strength <for [Military] units> <vs [Byzantium] units> <after founding a religion> <before enhancing a religion>", "[-10]% Strength <for [Military] units> <vs [Byzantium] units> <after enhancing a religion>"	
+		]
+		"cities": ["Weijing"],
+        "spyNames": ["Amaru", "Apichu", "Pariapichiu", "Puma", "Quenti", "Suyuntu", "Uturuncu", "Uturuncu", "Purutu", "Ozcollo"]  
+     }
+]
