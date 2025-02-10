@@ -1,0 +1,8 @@
+[
+	//奢侈品
+	{
+	    "name": "1000",  
+		"resourceType": "Strategic",
+	    "uniques": ["Cannot be traded","Not shown on world screen"]
+	}
+]

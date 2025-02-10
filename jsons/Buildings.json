@@ -1,0 +1,37 @@
+[
+    {
+		"name": "Research Station",
+		"replaces": "University",
+		"uniqueTo": "an-TARK-ti-ka",
+		"maintenance": 2,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 33},
+		"specialistSlots": {"Scientist": 2},
+		"requiredBuilding": "Library",
+		"uniques": ["[+2 Science] from [Snow] tiles [in this city]","[+2 Science] from [Jungle] tiles [in this city]"],
+		"requiredTech": "Education"
+	},
+	{
+    	"name": "The Igloo",
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"uniques": ["New [Military] units start with [20] Experience [in this city]", "Destroyed when the city is captured", "[+5]% Production when constructing [Military] units [in this city]","Can only be built<when above [0] [1000]><hidden from users>","Only available <in cities without a [Barracks]>"],
+		"requiredTech": "Bronze Working"
+	}
+	{
+	    "name": "Luxurious Cabin",
+		"hurryCostModifier": 0,
+		"maintenance": 2,
+		"requiredBuilding": "Armory ",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured",  "[+10]% Production when constructing [Gunpowder] units [in this city]"],
+		"requiredTech": "Military Science"
+	}
+	{
+	    "name": "Armory ",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "The Igloo",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+		"requiredTech": "Steel"
+	}
+]

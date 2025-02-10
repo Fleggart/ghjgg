@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Penguin Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "an-TARK-ti-ka",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 35,
+		"upgradesTo": "Swordsman",
+		"hurryCostModifier": 20,
+		"uniques":["Can enter ice tiles",]
+		"promotions": ["Cold resistance"],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Snowmobile",
+		"unitType": "Armored",
+		"replaces": "Landship",
+		"uniqueTo": "an-TARK-ti-ka",
+		"movement": 4,
+		"strength": 60,
+		"cost": 350,
+		"requiredTech": "Combustion",
+		"requiredResource": "Oil",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"promotions": ["Cold resistance"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],
+		"attackSound": "tankshot"
+	},
+	{
+        "name": "Armored Penguin Carrier",
+		"uniqueTo": "an-TARK-ti-ka",
+		"replaces": "Tank",
+		"unitType": "Armor",
+		"movement": 6,
+		"strength": 83,
+		"cost": 475,
+		"requiredResource": "Oil",
+		"requiredTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus",
+        "Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"]		
+	}
+	{
+    	"name": "Weaponized Assault Penguins",
+		"uniqueTo": "an-TARK-ti-ka",
+		"replaces": "Infantry",
+		"unitType": "Melee",
+		"movement": 3,
+		"strength": 62,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"],
+		"attackSound": "shot"
+	}
+	{
+    	"name": "Penguin Militia",
+		"uniqueTo": "an-TARK-ti-ka",
+		"replaces": "Great War Infantry",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 53,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Bonus vs Melee 50%","Bonus vs Ranged 50%","Bonus vs Mounted 50%"],
+		"attackSound": "shot"
+	}
+]
